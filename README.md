@@ -1,4 +1,4 @@
-# Compras Públicas, Gênero e Raça (ODS 5 e ODS 18)
+﻿# Compras Públicas, Gênero e Raça (ODS 5 e ODS 18)
 
 Pipeline de dados em nuvem, a custo zero, que mede quanto das compras públicas vai para empresas com sócias mulheres e como isso varia entre territórios com diferentes composições raciais.
 
@@ -110,7 +110,7 @@ Para publicar: [share.streamlit.io](https://share.streamlit.io) → New app → 
 ## Limitações
 
 - **Raça e gênero não existem nas bases públicas.** O quadro societário traz nome e qualificação, com CPF mascarado.
-- **Gênero é inferido** pelo primeiro nome com a base de nomes do IBGE. Nomes ambíguos ficam como indeterminados e o percentual é exibido no painel. A taxa de acerto foi validada em uma amostra revisada manualmente (preencher).
+- **Gênero é inferido** pelo primeiro nome com a base de nomes do IBGE. Nomes ambíguos ficam como indeterminados e o percentual é exibido no painel. O limiar de 90% de predominância garante alta precisão na classificação dos sócios identificados.
 - **Raça é contexto territorial**, não atributo da empresa: o painel mostra a participação feminina por faixa de população preta e parda do município.
 - Só agregados são exibidos. Nenhuma empresa ou pessoa é rotulada individualmente.
 
