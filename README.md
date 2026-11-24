@@ -2,7 +2,7 @@
 
 Pipeline de dados em nuvem, a custo zero, que mede quanto das compras públicas vai para empresas com sócias mulheres e como isso varia entre territórios com diferentes composições raciais.
 
-**Equipe:** Caio Vitorino, Fabio Telles, Luiz Salles, Thalisson Gabriel, Mateus Bastos
+**Equipe:** Caio Vitorino, Fabio Telles, Luiz Sales, Thalisson Gabriel, Mateus Bastos
 **Disciplina:** CLOUD COMPUTING / ads-si
 
 ## Pergunta analítica
